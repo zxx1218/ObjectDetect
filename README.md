@@ -20,25 +20,25 @@
 
 ### 前两天在一家西餐厅随手拍的一张照片
 
-![Alt text](../../Typora笔记/前端/前端笔记/img/035af1ecac5f3a7eabac2590aa87df8-16816277816613.png)
+![Alt text](https://github.com/zxx1218/ObjectDetect/blob/main/imgANDvideo/xican.jpg)
 
 ### 在滑雪场的合照
 
-![Alt text](../../Typora笔记/前端/前端笔记/img/035af1ecac5f3a7eabac2590aa87df8-16816277816613.png)
+![Alt text](https://github.com/zxx1218/ObjectDetect/blob/main/imgANDvideo/huaxue.jpg)
 
 ### girl！（如果你想根据人脸识别具体是谁，只需要在图片里把这个人的名字标记上去就可以实现）
 
-![Alt text](../../Typora笔记/前端/前端笔记/img/035af1ecac5f3a7eabac2590aa87df8-16816277816613.png)
+![Alt text](https://github.com/zxx1218/ObjectDetect/blob/main/imgANDvideo/girl.jpg)
 
 ### 模型检测用在视频上----记录同学的第一次台球体验（可以看到，视频的的每一帧都被模型添加了检测）
 
-- 由于Github目前还不能在Readme中放视频，因此我把视屏上传到了bilibili，连接如下：
+- 由于Github目前还不能在Readme中放视频，因此我把视屏上传到了bilibili，连接如下：https://www.bilibili.com/video/BV1GM4y1y7BE/?vd_source=564177318e842069eddc2a6ed44f73f6
 
 ### 调用模型的时候控制台（CMD）的输出
 
 - 可以看到目前调用的显卡是RTX4090，**这并不意味着没有显卡就不行，只是说有显卡可能一张图片只需要2-3毫秒，但如果通过CPU训练大概每张图需要15毫秒左右**
 
-![Alt text](../../Typora笔记/前端/前端笔记/img/035af1ecac5f3a7eabac2590aa87df8-16816277816613.png)
+![Alt text](https://github.com/zxx1218/ObjectDetect/blob/main/imgANDvideo/train.png)
 
 ## 作者联系方式：
 

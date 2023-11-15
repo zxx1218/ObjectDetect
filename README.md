@@ -22,11 +22,11 @@
 
 ![Alt text](https://github.com/zxx1218/ObjectDetect/blob/main/imgANDvideo/xican.jpg)
 
-### 在滑雪场的合照
+### 滑雪场合照
 
 ![Alt text](https://github.com/zxx1218/ObjectDetect/blob/main/imgANDvideo/huaxue.jpg)
 
-### girl！（如果你想根据人脸识别具体是谁，只需要在图片里把这个人的名字标记上去就可以实现）
+### girl！（如果你想根据人脸识别具体是谁，只需要在训练集中把这个人的名字标记上去就可以实现）
 
 ![Alt text](https://github.com/zxx1218/ObjectDetect/blob/main/imgANDvideo/girl.jpg)
 
